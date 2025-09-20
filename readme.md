@@ -5,7 +5,7 @@ This repository is a collection of all my projects made for the purpose of study
 This repository is a demonstration of my familiarization with certain technologies.
 
 ## List
-*It is empty currently*
+- [C++ OpenGL 3.3 Sprite Render](/cpp-opengl-33-sprite-render) - Simple rendering implemented in C++ and OpenGL 3.3 for drawing sprites
 
 ## License
 [DO WHAT THE FUCK YOU WANT TO](LICESE)
@@ -17,7 +17,7 @@ This repository is a demonstration of my familiarization with certain technologi
 Данный репозиторий является демонстрацией моего ознакомления с теми или иными технологиями.
 
 ## Список
-*Здесь пустовато сейчас*
+- [C++ OpenGL 3.3 Sprite Render](/cpp-opengl-33-sprite-render) - Простой рендер реализованный на C++ и OpenGL 3.3 для отрисовки спрайтов.
 
 ## Лицензия
 [ДЕЛАЙ, ЧЕРТ ВОЗЬМИ, ЧТО ХОЧЕШЬ](LICENSE)
