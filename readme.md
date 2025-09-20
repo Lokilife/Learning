@@ -5,6 +5,7 @@ This repository is a collection of all my projects made for the purpose of study
 This repository is a demonstration of my familiarization with certain technologies.
 
 ## List
+- [Rust Snake](/rust-snake/) - Just a CLI snake written in Rust. I was just getting familiar with Rust and its features.
 - [C++ OpenGL 3.3 Sprite Render](/cpp-opengl-33-sprite-render) - Simple rendering implemented in C++ and OpenGL 3.3 for drawing sprites
 
 ## License
@@ -17,6 +18,7 @@ This repository is a demonstration of my familiarization with certain technologi
 Данный репозиторий является демонстрацией моего ознакомления с теми или иными технологиями.
 
 ## Список
+- [Rust Snake](/rust-snake/) - Просто змейка в терминале написанная на Rust. Я просто знакомился с Rust и его особенностями.
 - [C++ OpenGL 3.3 Sprite Render](/cpp-opengl-33-sprite-render) - Простой рендер реализованный на C++ и OpenGL 3.3 для отрисовки спрайтов.
 
 ## Лицензия
