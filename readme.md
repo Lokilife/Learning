@@ -7,6 +7,7 @@ This repository is a demonstration of my familiarization with certain technologi
 ## List
 - [Rust Snake](/rust-snake/) - Just a CLI snake written in Rust. I was just getting familiar with Rust and its features.
 - [C++ OpenGL 3.3 Sprite Render](/cpp-opengl-33-sprite-render) - Simple rendering implemented in C++ and OpenGL 3.3 for drawing sprites
+- [Hoar OS](/hoar/) - Very basic kernel written in Rust: GDT, IDT, PIC, but no processes or even interactive shell
 
 ## License
 [DO WHAT THE FUCK YOU WANT TO](LICESE)
@@ -20,6 +21,7 @@ This repository is a demonstration of my familiarization with certain technologi
 ## Список
 - [Rust Snake](/rust-snake/) - Просто змейка в терминале написанная на Rust. Я просто знакомился с Rust и его особенностями.
 - [C++ OpenGL 3.3 Sprite Render](/cpp-opengl-33-sprite-render) - Простой рендер реализованный на C++ и OpenGL 3.3 для отрисовки спрайтов.
+- [Hoar OS](/hoar/) - Очень базовое ядро ОС написанное на Rust: GDT, IDT, PIC, но отсутствуют процессы или даже интерактивный Shell
 
 ## Лицензия
 [ДЕЛАЙ, ЧЕРТ ВОЗЬМИ, ЧТО ХОЧЕШЬ](LICENSE)
