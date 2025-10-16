@@ -1,0 +1,10 @@
+[build]
+target = "i686-kernel.json"
+
+[target.i686-kernel]
+linker = "rust-lld"
+rustflags = [
+    "-C", "link-arg=-Tsrc/arch/i686/linker.ld",
+    "-C", "link-arg=-nostdlib",
+    "-C", "link-arg=--gc-sections",
+]

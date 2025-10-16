@@ -1,0 +1,25 @@
+[package]
+name = "hoar-os"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "kernel"
+crate-type = ["staticlib"]
+path = "src/kernel/kernel.rs"
+
+[profile.release]
+opt-level = "z"
+lto = true
+panic = "abort"
+codegen-units = 1
+strip = true
+debug = false
+
+[profile.dev]
+opt-level = 1
+panic = "abort"
+lto = true
+
+[dependencies]
+paste = "1.0.15"
